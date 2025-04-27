@@ -36,4 +36,4 @@ docker-compose up --build
 - API: http://localhost:5000/
 - Web: http://localhost:8080/
 
-![example](/assets/example.png)
+![example](/assets/newexample.png)
