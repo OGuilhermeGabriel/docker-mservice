@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  api:
+    build: ./service-api
+    ports:
+      - "5000:5000"
+  
+  web:
+    build: ./service-web
+    ports:
+      - "8080:80"
+    depends_on:
+      - api
+
