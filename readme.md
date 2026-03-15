@@ -11,11 +11,11 @@ Este projeto implementa uma simples estrutura de microserviço usando Docker e D
 
 - service-web: 
 
-É a pasta que contem um serviço Web estático o qual utilizar Nginx como base. 
+É a pasta que contem um serviço Web estático o qual utiliza Nginx como base. 
 
 - docker-compose.yml: 
 
-Arquivo do Docker para a orquestração responsável por rodar ambos os serviços juntos. 
+Arquivo do Docker para a orquestração, responsável por rodar ambos os serviços juntos. 
 
 - README.md: 
 
