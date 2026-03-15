@@ -1,6 +1,6 @@
 # Aplicação do docker para microserviços
 
-Este projeto implementa uma simples estrutura de microserviço usando Docker e Docker e Docker compose. 
+Este projeto implementa uma simples estrutura de microserviço usando Docker e Docker compose. 
 
 
 ## Explicação Rápida dos arquivos e pastas
